@@ -1,7 +1,7 @@
 ### Open terminal, make sure to install Python 
 
 ```bash
- python --version
+python --version
 ```
 
  ```bash
