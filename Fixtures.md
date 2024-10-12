@@ -1,0 +1,1 @@
+Fixtures in pytest are tools that help you set up a consistent environment for your tests. They allow you to create reusable components that provide a fixed setup, ensuring that your tests run reliably and consistently each time.
